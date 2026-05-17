@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://delightful-granita-d343a6.netlify.app/sitemap.xml
+Sitemap: https://room-rental-site.vercel.app/sitemap.xml
