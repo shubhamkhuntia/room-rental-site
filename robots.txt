@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://delightful-granita-d343a6.netlify.app/sitemap.xml
